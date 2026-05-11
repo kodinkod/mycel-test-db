@@ -4,5 +4,6 @@
   "author_name": "Mycel User",
   "author_email": "user@mycel.local",
   "auto_sync": true,
-  "debounce_ms": 30000
+  "debounce_ms": 30000,
+  "last_sync_at": "2026-05-11T08:43:43.763545+00:00"
 }

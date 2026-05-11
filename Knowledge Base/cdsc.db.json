@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "schema": {
+    "title": {
+      "type": "text",
+      "label": "Title",
+      "width": 220
+    }
+  },
+  "views": {
+    "default": {
+      "label": "Default",
+      "visible_columns": [
+        "title"
+      ],
+      "filters": []
+    }
+  },
+  "rows": []
+}
