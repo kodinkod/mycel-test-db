@@ -1,0 +1,4 @@
+# Per-device crypto material — do not sync these between machines.
+# Each device generates its own; recipients.txt is the shared truth.
+local-identity.age
+local-pubkey.txt
