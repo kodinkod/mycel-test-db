@@ -1,0 +1,58 @@
+{
+  "version": 0,
+  "items": [
+    {
+      "id": "58802536-cc2c-4ef3-89e6-df1bb6544f0d",
+      "action": "купить",
+      "context": "@компьютер",
+      "project": "Вам",
+      "done": true,
+      "done_at": "2026-05-11T17:47:02.866293Z",
+      "created_at": "2026-05-11T17:46:40.984909Z"
+    },
+    {
+      "id": "3af79cb6-a36c-40d4-a36b-9d1d69cbb481",
+      "action": "мва",
+      "context": "@компьютер",
+      "project": "Вам",
+      "done": true,
+      "done_at": "2026-05-11T17:47:06.621569Z",
+      "created_at": "2026-05-11T17:46:41.975766Z"
+    },
+    {
+      "id": "c8805fb7-66bc-4135-9bee-d61b0a9b5f1a",
+      "action": "мвалдм",
+      "context": "@компьютер",
+      "project": "Вам",
+      "done": true,
+      "done_at": "2026-05-11T17:47:07.620983Z",
+      "created_at": "2026-05-11T17:46:42.761570Z"
+    },
+    {
+      "id": "c188c363-8db2-4663-9fca-486fe8aa302b",
+      "action": "мавлдмфьё",
+      "context": "@компьютер",
+      "project": "Вам",
+      "done": true,
+      "done_at": "2026-05-11T17:47:08.200932Z",
+      "created_at": "2026-05-11T17:46:44.277109Z"
+    },
+    {
+      "id": "20eb49a8-1c09-4980-899b-92311fcb8249",
+      "action": "вмы",
+      "context": "@встреча",
+      "project": "Вам",
+      "energy": "средняя",
+      "duration": "< 30 мин",
+      "done": false,
+      "created_at": "2026-05-11T17:47:40.599898Z"
+    },
+    {
+      "id": "ed9ca759-c98d-432e-93e3-39269290a021",
+      "action": "купить еды",
+      "context": "@компьютер",
+      "done": false,
+      "created_at": "2026-05-11T17:47:52.472125Z"
+    }
+  ]
+}

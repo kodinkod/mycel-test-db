@@ -1,0 +1,19 @@
+{
+  "contexts": [
+    "@компьютер",
+    "@звонок",
+    "@встреча",
+    "@дом",
+    "@магазин",
+    "@везде"
+  ],
+  "areas": [
+    "work",
+    "personal",
+    "study",
+    "hobby"
+  ],
+  "waiting_for_stale_days": 14,
+  "default_grouping": "context",
+  "show_completed_today": true
+}
