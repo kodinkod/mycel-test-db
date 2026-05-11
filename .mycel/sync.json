@@ -1,0 +1,8 @@
+{
+  "remote": "https://github.com/kodinkod/mycel-test-db.git",
+  "branch": "main",
+  "author_name": "Mycel User",
+  "author_email": "user@mycel.local",
+  "auto_sync": true,
+  "debounce_ms": 30000
+}
