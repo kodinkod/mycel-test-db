@@ -1,13 +1,4 @@
 {
   "version": 0,
-  "items": [
-    {
-      "id": "4f894c7c-19fa-4afc-b95c-4deb6f2332cf",
-      "title": "Вам",
-      "outcome": "",
-      "status": "paused",
-      "page": "Knowledge Base/projects/Вам.md",
-      "created_at": "2026-05-11T17:46:34.381395Z"
-    }
-  ]
+  "items": []
 }
